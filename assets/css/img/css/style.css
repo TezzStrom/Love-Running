@@ -13,11 +13,11 @@ html {
 
 body {
   font-family: Lato;
-  font-color: #777777;
+  color: #777777;
 }
 
 h2 {
-  font-family: Oswald
+  font-family: Oswald;
   text-transform: uppercase;
   letter-spacing: 4px;
   color: #555555;
@@ -145,6 +145,6 @@ h2 {
 
 hr {
   border-top: 1px solid #777777;
-  widht: 100%;
+  width: 100%;
   margin: 5px 0;
 }
